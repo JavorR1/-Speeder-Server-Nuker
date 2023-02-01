@@ -1,6 +1,7 @@
 # Speeder Discord Nuke Bot
 * Python 3.6 - 3.11
 ***
+Discord : https://discord.gg/5svtU4ysFa
 # Features
  - [x] Delete Channels
  - [x] Ban All Members
