@@ -1,5 +1,5 @@
 # Speeder Discord Nuke Bot
-* Python 3.6 - 3.8
+* Python 3.6 - 3.11
 ***
 # Features
  - [x] Delete Channels
@@ -10,7 +10,7 @@
 
 ***
 # Preview
-
+https://cdn.discordapp.com/attachments/1070111672754258000/1070139598342201354/Untitled.png
 ***
 # Installation:
 ## Android(Termux):
